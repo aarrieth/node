@@ -1,0 +1,22 @@
+{
+    "name": "node",
+    "version": "1.0.0",
+    "description": "Ejercicios con node",
+    "main": "",
+    "dependencies": {
+        "node-fetch": "^2.6.0",
+        "nodemon": "^2.0.4"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "getApi": "node ./src/getApi.js"
+    },
+    "keywords": [
+        "async",
+        "await",
+        "promises",
+        "callbacks"
+    ],
+    "author": "arrieta",
+    "license": "MIT"
+}
